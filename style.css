@@ -20,5 +20,8 @@ canvas{
     box-shadow:5px 5px 5px cyan ;
 }
 
-
+.play_button{
+    width: 130px;
+    font-size: 25px;
+}
 
