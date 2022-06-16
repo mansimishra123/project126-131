@@ -76,7 +76,7 @@ function draw(){
 
     if(song2status==false){
         song2 .play()
-        document.getElementById("song").innerHTML="playing petter pan "
+        document.getElementById("song").innerHTML="playing harry potter theme"
     }
    }
 }
